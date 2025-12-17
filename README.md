@@ -1,5 +1,5 @@
 # 💫 About Me:
- First-year Computer Science & Engineering student.<br> Currently learning Java, structured programming, and problem solving.<br>- Building projects to improve step by step.
+ First-year Computer Science & Engineering student.<br> Currently learning Java, structured programming, and problem solving.<br> Building projects to improve step by step.
 
 
 ## 🌐 Socials:
